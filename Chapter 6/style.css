@@ -1,0 +1,42 @@
+.heading {
+    color: red;
+    background-color: black;
+}
+
+body {
+    background-color: honeydew;
+}
+
+button {
+    background-color: skyblue;
+}
+
+/* h2 {
+    visibility: hidden;
+} */
+
+/* .box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+} */
+
+/* #box {
+    height: 250px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: dodgerblue;
+    color: white;
+
+} */
+
+.content {
+    color: blue;
+}
+
+.newClass {
+    background-color: yellow;
+}
